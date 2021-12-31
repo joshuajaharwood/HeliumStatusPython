@@ -1,4 +1,5 @@
 '''
+TODO: Take arguments from command line
 TODO: Logging to CSV
 TODO: Refactor in to functions
 TODO: Handle non-200 timeouts
